@@ -1,5 +1,8 @@
 file4 in branch1
 
 edited in branch2
+<<<<<<< HEAD
 
 asmfhfjkfjka
+=======
+>>>>>>> 23d599c... edit in branch2
