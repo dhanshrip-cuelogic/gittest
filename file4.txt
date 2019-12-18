@@ -1,3 +1,6 @@
 file4 in branch1
 
-edited in branch1 now modified
+
+
+edited in branch2
+>>>>>>> branch2
