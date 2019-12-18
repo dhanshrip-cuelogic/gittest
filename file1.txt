@@ -1,1 +1,3 @@
 fjhgkjfhrhf
+this is edited file 1 before merge with master in branch1.
+
